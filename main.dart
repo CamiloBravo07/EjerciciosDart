@@ -232,7 +232,7 @@ void ejercicio5() {
 }
 
 void ejercicio6() {
-  print('--- Conversión de 70°C a Fahrenheit ---');
+  print('--- Conversión de °C a Fahrenheit ---');
 
   print('Ingresa los grados:');
   double? celsius = double.tryParse(stdin.readLineSync()!);
