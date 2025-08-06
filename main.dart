@@ -239,5 +239,5 @@ void ejercicio6() {
 
   double fahrenheit = (celsius! * 1.8) + 32;
 
-  print('70 °C equivalen a ${fahrenheit.toStringAsFixed(2)} °F');
+  print('$celsius °C equivalen a ${fahrenheit.toStringAsFixed(2)} °F');
 }
